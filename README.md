@@ -1,13 +1,14 @@
 # Bangalore_Home_pricing
-## A machine learning model built with Python to predict the prices of homes based on various features such as size, location, number of rooms, etc.
+## Objective
+A machine learning model built with Python to predict the prices of homes based on various features such as size, location, number of rooms, etc.
 
-# Prerequisites
+## Prerequisites
 What things you need to install the software and how to install them:
-Python
-Numpy
-Pandas
-Matplotlib
-Sklearn
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Sklearn
 You can install these packages using pip install numpy pandas matplotlib scikit-learn
 
 # Data
